@@ -1,8 +1,8 @@
 ### Hi there 👋
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
 🔭 I'm currently looking for an entry-level front-end or full-stack web developer position. I am a hard worker, very motivated anda fast learner. 
+
 
 ⬇️ Check out my ;earning projects pinned below. 
 
@@ -13,6 +13,7 @@
 
 ### 🧰 Languages and Tools
 
+
 <div>
    <img align="center" alt="JS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="html" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -21,7 +22,11 @@
   
 </div>
 
+
 ### 🔧 Additional skills
+
+
+
 <div>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  title="GitHub" alt="GitHub"/>&nbsp;
