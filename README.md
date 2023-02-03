@@ -8,7 +8,6 @@
 
 💬 If you are interested in me, I would be glad to have a conversation.
 
-- LinkedIn: <a href="https://linkedin.com/in/artisdev" target=_blank>/in/kale-Dev</a>
 
 
 ### 🧰 Languages and Tools
