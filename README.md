@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I'm currently looking for an entry-level front-end or full-stack web developer position. I am a hard worker, very motivated anda fast learner. 
+🔭 I'm currently looking for an entry-level front-end or full-stack web developer position. I am a hard worker, very motivated and a fast learner. 
 
 
 ⬇️ Check out my ;earning projects pinned below. 
